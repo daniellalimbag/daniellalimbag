@@ -12,7 +12,9 @@ I'm a computer science student from the Philippines, currently studying at De La
 ###
 
 <picture>
-<img src="https://raw.githubusercontent.com/daniellalimbag/daniellalimbag/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/daniellalimbag/daniellalimbag/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/daniellalimbag/daniellalimbag/output/github-snake-dark.svg" alt="Snake animation" />
+  
 </picture>
 
 ###

@@ -11,9 +11,9 @@ I'm a computer science student from the Philippines, currently studying at De La
 
 ###
 
-<br clear="both">
-
+<picture>
 <img src="https://raw.githubusercontent.com/daniellalimbag/daniellalimbag/output/snake.svg" alt="Snake animation" />
+</picture>
 
-###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
